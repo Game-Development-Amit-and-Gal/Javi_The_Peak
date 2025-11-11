@@ -52,19 +52,19 @@
 שוק המשחקים לגיל הרך משלב חברות צעצוע וחינוך ותיקות עם סטארט-אפים חדשים.
 בין המותגים המובילים בעולם:
 
-                                                                                                                                                                                                          LeapFrog
+                                                                                                                                                                                           LeapFrog -
 
-                                                                                                                                                                                          Age of Learning – ABCmouse
+                                                                                                                                                                                          Age of Learning – ABCmouse -
 
-                                                                                                                                                                                          Khan Academy Kids
+                                                                                                                                                                                          Khan Academy Kids -
 
-                                                                                                                                                                                          Duck Duck Moose
+                                                                                                                                                                                          Duck Duck Moose -
 
-                                                                                                                                                                                          PBS Kids
+                                                                                                                                                                                          PBS Kids -
   
-                                                                                                                                                                                          Toca Boca
+                                                                                                                                                                                          Toca Boca -
 
-                                                                                                                                                                                          Sago Mini
+                                                                                                                                                                                          Sago Mini -
 
 בישראל: יש יזמויות מקומיות כגון TinyTap, שנרכשה על ידי Animoca Brands ומספקת תוכן בעברית.
 
@@ -365,6 +365,7 @@
 8. **קהילה סביב המותג** – עמוד פייסבוק/אינסטגרם עם תוכן להורים (טיפים, התפתחות, למידה דרך משחק).  
 
                                                                                                                                                                                                                     ---
+
 
 
 
