@@ -1,15 +1,15 @@
 **סקירת שוק ואסטרטגיה**  
   
-**גודל ומגמות השוק:  
+**גודל ומגמות השוק**:  
   **
 הרעיון שלנו משתייך לשוק אפליקציות משחקיות חינוכיות לילדים צעירים (גיל 3–5), לטלפון/טאבלט בדגש על סיפורים אינטראקטיביים ולמידה דרך בחירה.  
 שוק אפליקציות הלמידה לילדים נמצא בצמיחה מהירה: היקף שוק אפליקציות חינוכיות לילדים הוערך בכ־7.8 מיליארד דולר ב-2024, וצפוי להגיע לכ־24.6 מיליארד דולר עד 2033 .  
   
 בהתמקדות יותר ישירה בגיל שאנו מכוונים עליו (3-5) מוערכת בכ־4.3 מיליארד דולר ב-2024 וצפויה לגדול לכ־12.1 מיליארד דולר עד 2033 (.  
 כלומר מדובר בשוק בצמיחה.  
-https://dataintelo.com/report/toddler-learning-games-app-market?utm_source=chatgpt.com
+[https://dataintelo.com/report/toddler-learning-games-app-market]
 
-**מבחינת מתחרים, קיימים מספר מותגים גלובליים חזקים:  **
+**מבחינת מתחרים, קיימים מספר מותגים גלובליים חזקים:**
 – Sago Mini אוסף משחקים אינטראקטיביים לילדים צעירים, בנוי על נגיעות פשוטות, בלי טקסט כמעט.  
   
 – Thinkrolls (Toddler Mode) משחקי פיזיקה וסיבתיות עם שלבים קצרים.  
@@ -307,3 +307,4 @@ https://dataintelo.com/report/toddler-learning-games-app-market?utm_source=chatg
 [\[30\]](https://x.com/avokiddogames?lang=en#:~:text=Avokiddo%20,team%20for%20recognizing%20our) Avokiddo (@avokiddogames) / Posts / X
 
 <https://x.com/avokiddogames?lang=en>
+
