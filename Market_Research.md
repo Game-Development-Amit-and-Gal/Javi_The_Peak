@@ -362,9 +362,32 @@ Sago Mini
 5. **אפשרות להרחבה עתידית** – פרקים נוספים, סביבות חדשות, הרחבת הקונספט.  
 6. **הקפדה על פרטיות** – התאמה מלאה לתקנות COPPA / GDPR-K.  
 7. **דגש על עברית בשלב הראשון** – השוק הישראלי זקוק לתוכן איכותי, כמעט ללא תחרות.  
-8. **קהילה סביב המותג** – עמוד פייסבוק/אינסטגרם עם תוכן להורים (טיפים, התפתחות, למידה דרך משחק).  
+8. **קהילה סביב המותג** – עמוד פייסבוק/אינסטגרם עם תוכן להורים (טיפים, התפתחות, למידה דרך משחק).
+
+
+ [https://dataintelo.com/report/toddler-learning-games-app-market]
+[4] The 2025 Common Sense Census: Media Use by Kids Zero to Eight | Common Sense Media
+[https://www.commonsensemedia.org/research/the-2025-common-sense-census-media-use-by-kids-zero-to-eight] 
+[14] [15] Spin Master Acquires Toca Boca & Sago Mini - TVKIDS
+[https://worldscreen.com/tvkids/spin-master-acquires-toca-boca-sago-mini/]
+[18] Screen Time for Babies and Toddlers – Happiest Baby
+[https://www.happiestbaby.com/blogs/toddler/screen-time-babies-toddlers?srsltid=AfmBOoqzGBtfxHdxBZm9gyNkes8GpGz3C9PWFE39csZ2_kcmPYik-RDk]
+[19] [20] [21] [29] [34] Spin Master Launches Piknik™, A New Preschool App Subscription Service
+[https://www.prnewswire.com/news-releases/spin-master-launches-piknik-a-new-preschool-app-subscription-service-301948699.html]
+[22] Thinkrolls • Avokiddo® : Award-winning learning apps for kids
+[https://www.avokiddo.com/]
+[23] [24] [26] [27] Animoca Brands acquires TinyTap, the leading platform for user generated educational content
+[https://www.animocabrands.com/animoca-brands-acquires-tinytap]
+[25] Animoca unit TinyTap raises funds at $100 million valuation for ...
+[https://www.theblock.co/post/228149/animoca-tinytap-education]
+[28] Product Owner at Sago Mini - GameJobs.co
+[https://gamejobs.co/Product-Owner-at-Sago-Mini-548]
+[30] Avokiddo (@avokiddogames) / Posts / X
+[https://x.com/avokiddogames?lang=en]
+
 
                                                                                                                                                                                                                    
+
 
 
 
