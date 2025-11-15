@@ -39,7 +39,10 @@
 
 הילד מקבל מדבקה: **"המתכנת הקטן!"**
 
----
+<img width="400" height="400" alt="ChatGPT Image Nov 15, 2025, 06_42_18 PM" src="https://github.com/user-attachments/assets/5942c4a8-9687-41a0-9e6f-0b5d5c627d5e" />
+
+
+
 
 ## 🍃 רמה 2 – קלה
 
@@ -76,3 +79,5 @@
 ### 🟦 סיום הרמה
 
 העציץ מוכרז כ"מוכן לשתילה".
+
+---<img width="400" height="400" alt="ChatGPT Image Nov 15, 2025, 07_09_33 PM" src="https://github.com/user-attachments/assets/24177270-9d53-45ca-9b90-ab327e0f8fb2" />
