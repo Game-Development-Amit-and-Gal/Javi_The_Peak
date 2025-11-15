@@ -45,4 +45,4 @@
 
 הילד מקבל מדבקה: “המתכנת הקטן!”
 
-<img width="1024" height="1024" alt="ChatGPT Image Nov 15, 2025, 06_42_18 PM" src="https://github.com/user-attachments/assets/b83466d6-0463-4ebd-8f30-c1f578ccd739" />
+<img width="600" height="600" alt="ChatGPT Image Nov 15, 2025, 06_42_18 PM" src="https://github.com/user-attachments/assets/b83466d6-0463-4ebd-8f30-c1f578ccd739" />
