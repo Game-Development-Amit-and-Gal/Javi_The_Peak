@@ -91,7 +91,7 @@
 העציץ: **"מוכן לשתילה"**.
 
 
-<img width="400" height="400" alt="ChatGPT Image Nov 15, 2025, 07_09_33 PM" src="https://github.com/user-attachments/assets/1bacec31-86d3-43b0-816d-6a340eac6385" />
+
 
 ---
 
