@@ -201,7 +201,6 @@ GameObject:
   m_Component:
   - component: {fileID: 107118648}
   - component: {fileID: 107118647}
-  - component: {fileID: 107118646}
   - component: {fileID: 107118645}
   m_Layer: 0
   m_Name: Camera_2
@@ -254,14 +253,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!81 &107118646
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 107118644}
-  m_Enabled: 1
 --- !u!20 &107118647
 Camera:
   m_ObjectHideFlags: 0
@@ -571,7 +562,6 @@ GameObject:
   m_Component:
   - component: {fileID: 165004702}
   - component: {fileID: 165004701}
-  - component: {fileID: 165004700}
   - component: {fileID: 165004699}
   m_Layer: 0
   m_Name: Camera_3
@@ -624,14 +614,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!81 &165004700
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 165004698}
-  m_Enabled: 1
 --- !u!20 &165004701
 Camera:
   m_ObjectHideFlags: 0
@@ -929,7 +911,6 @@ GameObject:
   m_Component:
   - component: {fileID: 656082920}
   - component: {fileID: 656082919}
-  - component: {fileID: 656082918}
   - component: {fileID: 656082917}
   m_Layer: 0
   m_Name: Camera_4
@@ -982,14 +963,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!81 &656082918
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 656082916}
-  m_Enabled: 1
 --- !u!20 &656082919
 Camera:
   m_ObjectHideFlags: 0
@@ -1643,7 +1616,7 @@ GameObject:
   - component: {fileID: 1628250984}
   - component: {fileID: 1628250983}
   m_Layer: 0
-  m_Name: Screenshot 2025-11-25 052855_0
+  m_Name: page_34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2167,7 +2140,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1842233026}
   - component: {fileID: 1842233025}
-  - component: {fileID: 1842233024}
   - component: {fileID: 1842233023}
   m_Layer: 0
   m_Name: Camera_1
@@ -2220,14 +2192,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!81 &1842233024
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1842233022}
-  m_Enabled: 1
 --- !u!20 &1842233025
 Camera:
   m_ObjectHideFlags: 0
@@ -2377,7 +2341,7 @@ GameObject:
   - component: {fileID: 2065794233}
   - component: {fileID: 2065794232}
   m_Layer: 0
-  m_Name: Screenshot 2025-11-25 023914_0
+  m_Name: page_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2512,7 +2476,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1.522
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7615994684166443345, guid: 6324dbf756f91324b8328eb49515157d, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
