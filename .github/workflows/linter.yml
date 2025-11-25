@@ -23,4 +23,4 @@ jobs:
 
       - name: Run dotnet-format
         # Run dotnet-format in check mode to identify issues only in .cs files in Assets/Scripts and subfolders
-        run: dotnet-format Assets/Book-Page\ Curl/Scripts --folder --include "**/*.cs" --verbosity diagnostic
+        run: dotnet-format Assets/Book-Page_Curl/Scripts --folder --include "**/*.cs" --verbosity diagnostic
