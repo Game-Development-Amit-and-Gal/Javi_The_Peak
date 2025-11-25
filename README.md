@@ -273,3 +273,6 @@ Please respect the original asset’s license if you clone or reuse this project
 - Add buttons (Next / Previous) in addition to mouse dragging
 - Add sounds for page flips
 - Connect JAVI’s movement and interactions to specific book pages
+
+
+  [Game's Link](https://amit-and-gal.itch.io/javi-the-peak)
